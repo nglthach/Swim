@@ -11,6 +11,11 @@ Don’t forget to collect as many collect coins as you can along the way. The mo
 
 Have fun!!
 
+## Video
+
+[![Watch the video](https://img.youtube.com/vi/KVNRi83yYQA/maxresdefault.jpg)](https://youtu.be/KVNRi83yYQA)
+
+
 ## Screenshots
 
 ![Screenshot1](https://user-images.githubusercontent.com/28640848/171116605-3c1bebe8-5c3d-4d16-b322-987998f008b1.png)
