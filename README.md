@@ -3,9 +3,10 @@ A small game built with Delphi + FMX + Skia4Delphi
 
 ## Screenshots
 
-[Screenshot1](https://user-images.githubusercontent.com/28640848/171116475-9b4ac1bc-1ea9-41c6-988c-50d96e9fd15d.png)
-![Uploading Screenshot2.png…](![Screenshot3](https://user-images.githubusercontent.com/28640848/171116491-a2ab45e4-63cc-4104-b567-3949e4f303b6.png)
-![Screenshot4](https://user-images.githubusercontent.com/28640848/171116493-a53dee0c-76b1-4ed6-b4f1-0c1111c8a0f7.png)
+![Screenshot1](https://user-images.githubusercontent.com/28640848/171116605-3c1bebe8-5c3d-4d16-b322-987998f008b1.png)
+![Screenshot2](https://user-images.githubusercontent.com/28640848/171116615-50aa52a7-35ea-4a08-99c3-e301dcc5b352.png)
+![Screenshot3](https://user-images.githubusercontent.com/28640848/171116622-7f8318c0-f9b1-4c84-88e6-610d3c3e3b50.png)
+![Screenshot4](https://user-images.githubusercontent.com/28640848/171116631-fbe07a52-0b3f-455b-8d9d-4a104020344e.png)
 
 ## Special thank you to
 www.freepik.com
