@@ -13,7 +13,7 @@ Have fun!!
 
 ## Video
 
-Click to open Youtube
+[Click to open Youtube](https://youtu.be/KVNRi83yYQA)
 
 [![Watch the video](https://img.youtube.com/vi/KVNRi83yYQA/maxresdefault.jpg)](https://youtu.be/KVNRi83yYQA)
 
