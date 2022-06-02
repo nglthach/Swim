@@ -33,7 +33,7 @@ Simply, move the fish around to eat smaller fish.
 2. Rapid application development: I could get the UI of the application quickly. In some cases, I don't need to write any single line of code for my application.
 3. Cross platform
 4. FMX make graphic development easily. I could get the effects on application by drop some components.
-5. [Skia4Delphi](https://github.com/skia4delphi/skia4delphi) makes the app runs smooth on Android. There is a contest for now, you could find more information from [here](https://blogs.embarcadero.com/skia4delphi-gui-beauty-contest/).
+5. [Skia4Delphi](https://github.com/skia4delphi/skia4delphi) makes the app runs smoothly on Android. There is a contest for now, you could find more information from [here](https://blogs.embarcadero.com/skia4delphi-gui-beauty-contest/).
 
 ## How to build the game
 1. Clone this repository
