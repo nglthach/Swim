@@ -25,6 +25,9 @@ Have fun!!
 ![Screenshot3](https://user-images.githubusercontent.com/28640848/171116622-7f8318c0-f9b1-4c84-88e6-610d3c3e3b50.png)
 ![Screenshot4](https://user-images.githubusercontent.com/28640848/171116631-fbe07a52-0b3f-455b-8d9d-4a104020344e.png)
 
+## How to play
+Simply, move the fish around to eat smaller fish.
+
 ## Why I chose [Delphi](https://www.embarcadero.com/products/delphi) + FMX + Skia4Delphi
 1. Object Pascal is a neat language. It is very easy to learn.
 2. Rapid application development: I could get the UI of the application quickly. In some cases, I don't need to write any single line of code for my application.
@@ -36,7 +39,8 @@ Have fun!!
 1. Clone this repository
 2. Open ```Swim.dpr``` or ```Swim.dproj```
 3. From Delphi IDE, press ```F9``` to run the game or ```SHIFT + F9``` to build the game.
-4. Optional step: Install the fonts in ```Fonts``` folder before running the game
+4. If you are building the game for Windows, copy ```MP3``` folder to the folder where contains ```swim.exe```
+5. Optional step: Install the fonts in ```Fonts``` folder before running the game
 
 
 ## Special thank you to
