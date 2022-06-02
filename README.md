@@ -42,6 +42,9 @@ Simply, move the fish around to eat smaller fish.
 4. If you are building the game for Windows, copy ```MP3``` folder to the folder where contains ```swim.exe```
 5. Optional step: Install the fonts in ```Fonts``` folder before running the game
 
+## Download:
+[Click here to download the game for Windows](https://github.com/nglthach/Swim/releases/download/v1.0/Swim_Win32.zip)
+
 
 ## Special thank you to
 www.freepik.com
